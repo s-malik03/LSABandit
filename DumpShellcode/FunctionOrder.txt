@@ -1,0 +1,6 @@
+Shellcode
+WhereAmI
+GetParams
+PatchHook
+EndShellcode
+main
